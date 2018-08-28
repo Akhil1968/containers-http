@@ -1,0 +1,17 @@
+{
+  "name": "http-core",
+  "version": "1.0.0",
+  "description": "3 http services",
+  "author": "Akhil",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "morgan": "latest",
+    "request": "latest",
+    "body-parser": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akhil1965/3services.git"
+  }
+}
